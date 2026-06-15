@@ -1,2 +1,2 @@
 # Zanshin
-Bridging low-level systems and ML: A highly efficient C++ sensor that analyzes DNS entropy to catch DGA malware. Built for low-latency environments like embedded systems and EDRs.
+Bridging low-level systems and ML: Developed a C++ DNS entropy analysis tool to detect DGA-based malware, optimized for low-latency environments such as embedded systems and EDRs.
